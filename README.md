@@ -12,4 +12,4 @@ _note for current students: go through the [new student checklist](https://githu
 
 ## Acknowledgements
 
-First version of this page was shamelessly based on MIT PDOS's new-students welcome page.
+First version of this page was shamelessly based on MIT PDOS's [new-students welcome page](https://github.com/mit-pdos/new-students).
