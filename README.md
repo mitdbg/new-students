@@ -4,7 +4,8 @@ If you're a new student you should introduce yourself to the rest of the group! 
 To get you access to various things, send the following to **Joana M. F. Trindade** (jmf@csail.mit.edu):
 
 1. the email address you want to use for the group mailing list, <db@csail.mit.edu>,
-2. your GitHub username,
+2. the email address you want to use for our slack group,
+3. your GitHub username,
 
 After you've done this, you'll have access to the [Getting started guide](https://github.com/mitdbg/wiki/blob/master/new-student-getting-started.md) on the MIT DB group wiki, which you should read all the way through.
 
