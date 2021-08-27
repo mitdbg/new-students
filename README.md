@@ -2,6 +2,7 @@
 If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around our group's labs and getting everyone's name and what they do.
 
 Get on the [dsg-active@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/dsg-active) (current members).
+
 Get on the [db@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/db) (broader audience).
 
 To get you access to various things, send the following to **Siva** (siva@csail.mit.edu):
