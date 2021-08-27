@@ -1,11 +1,13 @@
 # Welcome to MIT DB Group!
 If you're a new student you should introduce yourself to the rest of the group! Please don't feel shy about going around our group's labs and getting everyone's name and what they do.
 
-To get you access to various things, send the following to **Joana M. F. Trindade** (jmf@csail.mit.edu):
+Get on the [dsg-active@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/dsg-active) (current members).
+Get on the [db@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/db) (broader audience).
 
-1. the email address you want to use for the group mailing list, <db@csail.mit.edu>,
-2. the email address you want to use for our slack group,
-3. your GitHub username,
+To get you access to various things, send the following to **Siva** (siva@csail.mit.edu):
+
+1. the email address you want to use for our slack group,
+2. your GitHub username,
 
 After you've done this, you'll have access to the [Getting started guide](https://github.com/mitdbg/wiki/blob/master/new-student-getting-started.md) on the MIT DB group wiki, which you should read all the way through.
 
