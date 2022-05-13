@@ -5,6 +5,8 @@ Get on the [dsg-active@csail.mit.edu mailing list](https://lists.csail.mit.edu/m
 
 Get on the [db@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/db) (broader audience).
 
+Get on the [systems-cor-students@csail.mit.edu mailing list](https://lists.csail.mit.edu/mailman/listinfo/systems-cor-students).
+
 To get you access to various things, send the following to **Siva** (siva@csail.mit.edu):
 
 1. the email address you want to use for our slack group,
