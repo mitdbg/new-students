@@ -9,7 +9,7 @@ Get on the [systems-cor-students@csail.mit.edu mailing list](https://lists.csail
 
 To get you access to various things, send the following to **Siva** (siva@csail.mit.edu):
 
-1. the email address you want to use for our slack group,
+1. your MIT kerberos,
 2. your GitHub username,
 
 After you've done this, you'll have access to the [Getting started guide](https://github.com/mitdbg/wiki/blob/master/new-student-getting-started.md) on the MIT DB group wiki, which you should read all the way through.
